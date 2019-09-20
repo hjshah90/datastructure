@@ -6,4 +6,5 @@ should return an empty array. Assume that there will be at most one pair of
 numbers summing up to the target sum.
 
 Sample input: [3, 5, -4, 8, 11, 1, -1, 6], 10
+
 Sample output: [-1, 11]
