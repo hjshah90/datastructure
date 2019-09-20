@@ -6,4 +6,5 @@ number from the first array in the first position. Assume that there will
 only be one pair of numbers with the smallest difference.
 
 Sample input: [-1, 5, 10, 20, 28, 3], [26, 134, 135, 15, 17]
+
 Sample output: [28, 26]
